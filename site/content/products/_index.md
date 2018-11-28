@@ -67,7 +67,7 @@ testimonials:
     quote: Oh snap!
   - author: 'Maria, woman of the clock'
     quote: 'dues and do nots, they all seem the same'
-full_image: /img/products-full-width.jpg
+full_image: /img/9460710188_b4266fd12b_k.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
