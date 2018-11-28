@@ -63,6 +63,8 @@ testimonials:
     quote: Every dog has his day
   - author: Thomas the zombie
     quote: every word can can start a sentence
+  - author: Mac philosopher
+    quote: Wisdom is always retro
   - author: 'Old man Grue the Janitor, after hs broom snapped '
     quote: Oh snap!
   - author: 'Maria, woman of the clock'
