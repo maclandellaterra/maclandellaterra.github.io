@@ -69,6 +69,9 @@ testimonials:
     quote: Oh snap!
   - author: 'Maria, woman of the clock'
     quote: 'dues and do nots, they all seem the same'
+  - author: pony the dragon servint
+    quote: the man of the moon docent faces he has phases
+  - quote: the past is passing
 full_image: /img/9460710188_b4266fd12b_k.jpg
 pricing:
   heading: Monthly subscriptions
@@ -90,13 +93,16 @@ pricing:
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: '100'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '?'
+      price: '150'
+    - description: it was made in 1478 and people stopt drinking it in 9012
+      plan: 'large, extra large, and life time siply'
+      price: '200,250, and3,000'
 ---
 
