@@ -101,8 +101,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '150'
-    - description: it was made in 1478 and people stopt drinking it in 9012
-      plan: 'large, extra large, and life time siply'
-      price: '200,250, and3,000'
 ---
 
