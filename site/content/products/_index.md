@@ -103,6 +103,153 @@ pricing:
       price: '150'
     - description: it was made in 1478 and people stopt drinking it in 9012
       plan: 'large, extra large, and life time siply'
+      pr
+      <div className="bg-off-white pv4 ph3">
+      	<div className="mw7 center">
+
+      		<h2 className="f2 b lh-title mb3">{entry.getIn(['data', 'pricing', 'heading'])}</h2>
+      		<p className="mw6">{entry.getIn(['data', 'pricing', 'description'])}</p>
+
+      		<div className="flex-ns mhn2-ns mw7">
+            {(entry.getIn(['data', 'pricing', 'plans']) || []).map((plan, index) => <div className="w-33-ns ph2" key={index}>
+              <div className="ph2">
+
+              	<h3 className="b f5 grey-3 tc lh-title mb3">{plan.get('plan')}</h3>
+
+              	<p className="primary f1 b tc lh-title center">
+              		<span className="f4">$</span>{plan.get('price')}
+              	</p>
+
+-              	<p className="b">{plan.get('description')}</p>
+
+              	<ul>
+                  {(plan.get('items') || []).map((item, index) => <li key={index}>
+                    <p className={index + 1 !== plan.get('items').size ? "pb2 mb2 divider-grey" : null}>{item}</p>
+                  </li>)}
+              	</ul>
+
+              </div>
+
+            </div>)}
+      		</div>
+      	</div>
+      </div>
+      <div className="bg-off-white pv4 ph3">
+      	<div className="mw7 center">
+
+      		<h2 className="f2 b lh-title mb3">{entry.getIn(['data', 'pricing', 'heading'])}</h2>
+      		<p className="mw6">{entry.getIn(['data', 'pricing', 'description'])}</p>
+
+      		<div className="flex-ns mhn2-ns mw7">
+            {(entry.getIn(['data', 'pricing', 'plans']) || []).map((plan, index) => <div className="w-33-ns ph2" key={index}>
+              <div className="ph2">
+
+              	<h3 className="b f5 grey-3 tc lh-title mb3">{plan.get('plan')}</h3>
+
+              	<p className="primary f1 b tc lh-title center">
+              		<span className="f4">$</span>{plan.get('price')}
+              	</p>
+
+-              	<p className="b">{plan.get('description')}</p>
+
+              	<ul>
+                  {(plan.get('items') || []).map((item, index) => <li key={index}>
+                    <p className={index + 1 !== plan.get('items').size ? "pb2 mb2 divider-grey" : null}>{item}</p>
+                  </li>)}
+              	</ul>
+
+              </div>
+
+            </div>)}
+      		</div>
+      	</div>
+      </div>
+      <div className="bg-off-white pv4 ph3">
+      	<div className="mw7 center">
+
+      		<h2 className="f2 b lh-title mb3">{entry.getIn(['data', 'pricing', 'heading'])}</h2>
+      		<p className="mw6">{entry.getIn(['data', 'pricing', 'description'])}</p>
+
+      		<div className="flex-ns mhn2-ns mw7">
+            {(entry.getIn(['data', 'pricing', 'plans']) || []).map((plan, index) => <div className="w-33-ns ph2" key={index}>
+              <div className="ph2">
+
+              	<h3 className="b f5 grey-3 tc lh-title mb3">{plan.get('plan')}</h3>
+
+              	<p className="primary f1 b tc lh-title center">
+              		<span className="f4">$</span>{plan.get('price')}
+              	</p>
+
+-              	<p className="b">{plan.get('description')}</p>
+
+              	<ul>
+                  {(plan.get('items') || []).map((item, index) => <li key={index}>
+                    <p className={index + 1 !== plan.get('items').size ? "pb2 mb2 divider-grey" : null}>{item}</p>
+                  </li>)}
+              	</ul>
+
+              </div>
+
+            </div>)}
+      		</div>
+      	</div>
+      </div>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      hbnbvnbdfsd
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      ice: '200,250, and3,000'
+pricing2:
+  heading: Monthly subscriptions
+  description: >-
+    We make it easy to make great coffee a part of your life. Choose one of our
+    monthly subscription plans to receive great coffee at your doorstep each
+    month. Contact us about more details and payment info.
+  plans:
+    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+      items:
+        - 3 lbs of coffee per month
+        - Green or roasted beans"
+        - One or two varieties of beans"
+      plan: Small
+      price: '50'
+    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      items:
+        - 6 lbs of coffee per month
+        - Green or roasted beans
+        - Up to 4 different varieties of beans
+      plan: Big
+      price: '100'
+    - description: Want a few tiny batches from different varieties? Try our custom plan
+      items:
+        - Whatever you need
+        - Green or roasted beans
+        - Unlimited varieties
+      plan: Custom
+      price: '150'
+    - description: it was made in 1478 and people stopt drinking it in 9012
+      plan: 'large, extra large, and life time siply'
       price: '200,250, and3,000'
 ---
 
