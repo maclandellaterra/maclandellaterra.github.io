@@ -3,12 +3,11 @@ title: RED FOR RED
 subtitle: red is  for energy... and sometimes its anger!
 image: /img/ted-eyes-angry.png
 blurb:
-  heading: Why xanas caf caffeine?
+  heading: Music
   text: >-
-    xanas caf caffeine is the coffee store for everyone who believes that great
-    coffee shouldn't just taste good, it should do good too. We source all of
-    our beans directly from small scale sustainable farmers and make sure part
-    of the profits are reinvested in their communities.
+    Here are links to music I made:
+
+    https://www.noteflight.com/scores/view/a33b751da2411d24d9f680f5004da0f039ce3d70
 intro:
   heading: What we offer
   text: >-
