@@ -1,12 +1,12 @@
 ---
-title: Our Coffee
-image: /img/products-jumbotron.jpg
+title: Our ice cream
+image: /img/screenshot-2020-11-24-at-7.23.14-am.png
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Dairy Goddess is the ultimate spot for ice cream lovers who want to learn
+  about their  ice cream origin and support the cows that made it it. We take 
+  ice cream scooping, shaking and milking seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -37,11 +37,11 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    Dairy Goddess is the ultimate spot for ice cream lovers who want to learn
+    about their ice cream origin and support the cows that made it. We take ice
+    cream scooping, shaking, and milking seriously and we’re glad to pass that
+    knowledge to anyone...
 main:
   heading: Great coffee with no compromises
   description: >
